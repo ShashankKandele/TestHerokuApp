@@ -1,0 +1,11 @@
+{
+  firstname : "James",
+  lastname : "Brown",
+  totalprice : 111,
+  depositpaid : true,
+  bookingdates : {
+    checkin : '#ignore',
+    checkout : '#ignore'
+  },
+  additionalneeds : 'Breakfast'
+}
